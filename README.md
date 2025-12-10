@@ -2,9 +2,6 @@
 <h1 align="center">✨ Candela Echazú ✨</h1>
 <h3 align="center">Fullstack Developer • Angular & Spring Boot</h3>
 
-<p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/git-banners.appspot.com/o/dev-wave-dark.svg?alt=media" width="80%" />
-</p>
 
 ---
 
