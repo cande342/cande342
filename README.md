@@ -5,7 +5,7 @@
 
 ---
 
-## 🔥 Badges & Stats
+## Tecnologías, lenguajes y otras cositas que he tocado y puedo usar
 
 <p align="left">
   <!-- Lenguajes / Frameworks -->
@@ -42,19 +42,34 @@
 Desarrolladora fullstack con foco en **Angular (15–19)** y **Spring Boot**, creando aplicaciones completas, mantenibles y pensadas para back office, administración y sistemas internos.  
 Me gusta escribir código claro, estructurar bien los componentes, documentar lo necesario y diseñar interfaces limpias en Figma.
 
+A diferencia de Linkedin, acá queda al descubierto mi laborioso(?) proceso para convertirme en dev. En los primeros repos publicados o no existía la IA o por lo menos
+yo la desconocía totalmente, así que pueden encontrar un par de cositas feas pero muy valiosas para mi. 
+
 ---
 
 ## 🚀 Tech Stack
 
 ### 🔧 Frontend
-- Angular · RxJS · Signals  
+- Angular · RxJS · Signals
+- HTML · CSS · Javascript
 - Angular Material · PrimeNG  
-- TypeScript · HTML · SCSS  
+- TypeScript 
+- TailwindCSS
+- Un poco de Next.js, nociones de React.
 
 ### ⚙️ Backend
 - Spring Boot · Java  
 - REST APIs  
-- PostgreSQL · MongoDB  
+- PostgreSQL · MongoDB
+- Nociones de .NET
+- Auth con Cloud.
+
+### ⚙️ DATA
+- SQL · Nociones de Phyton para extracción y limpieza de datos.
+- PowerBi
+- Excel
+- SQLServer
+- Firebase/firestore
 
 ### 🛠️ Tools & Workflow
 - Git · GitHub  
@@ -64,6 +79,9 @@ Me gusta escribir código claro, estructurar bien los componentes, documentar lo
 - Figma  
 - Monolitos & microservicios  
 - Testing + documentación
+- Netlify
+- Chart.js
+- Three.js(webs 3D)
 
 ---
 
