@@ -112,8 +112,7 @@ Me gusta escribir código claro, estructurar bien los componentes, documentar lo
 
 ## 📬 Contacto
 
-**📧** gcandela894@gmail.com  
-**📱** +54 9 261 264 4649  
+**📧** gcandela894@gmail.com    
 **📍** Tandil, Buenos Aires  
 
 ---
