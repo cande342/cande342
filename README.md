@@ -131,7 +131,7 @@ yo la desconocía totalmente, así que pueden encontrar un par de cositas feas p
 ## 📬 Contacto
 
 **📧** gcandela894@gmail.com    
-**📍** Tandil, Buenos Aires  
+**📍** Las Heras, Mendoza
 
 ---
 
